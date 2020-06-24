@@ -1,0 +1,8 @@
+1.0.1
+
+a problem occured where some csv files were found with bad characters like &apos; and &quot;
+the program now will replace those instances with the actual characters.
+
+
+1.0.0
+release
