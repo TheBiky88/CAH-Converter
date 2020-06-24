@@ -1,3 +1,6 @@
+1.0.2
+another problem where csv files have split sentences among columns.
+
 1.0.1
 
 a problem occured where some csv files were found with bad characters like &apos; and &quot;
