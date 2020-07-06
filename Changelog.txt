@@ -1,3 +1,7 @@
+1.0.3
+fixed a bug where it was looking for a piece of text that didnt exist.
+removed questions, now its just a quick run
+
 1.0.2
 another problem where csv files have split sentences among columns.
 
